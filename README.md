@@ -1,1 +1,1 @@
-# community-pipeline
+# Community Business Patterns
